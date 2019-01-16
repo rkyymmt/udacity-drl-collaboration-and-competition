@@ -12,5 +12,5 @@
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 1. Extract above zip file in cloned this repository.
 1. Run 'jupyter notebook' in above directory.
-1. Open 'Navigation.ipynb' from Jupyter Notebook.
+1. Open 'Tennis.ipynb' from Jupyter Notebook.
 1. Execute 'Run all'.
