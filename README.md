@@ -20,5 +20,3 @@
 
 - Saved Model Weights
     - The submission includes the saved model weights of the successful agent.
-
-```
